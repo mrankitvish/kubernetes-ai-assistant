@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+kubernetes
+python-dotenv
+fastapi
+uvicorn[standard]
+pyyaml
+streamlit
+prometheus-fastapi-instrumentator
+slowapi
+loguru
